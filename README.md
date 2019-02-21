@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/16020555d/16020555d/_apis/build/status/Tyan22222.Calc?branchName=master)](https://dev.azure.com/16020555d/16020555d/_build/latest?definitionId=1&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
